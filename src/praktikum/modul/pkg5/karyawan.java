@@ -39,7 +39,7 @@ public class karyawan extends bonus{
             }
             else if (status.equals("SM"))//sudah menikah
             {
-                hasil = getGaji()+(getGaji()*0.05);
+                hasil = getGaji()+(getGaji()*0.1);
             }
             else if (status.equals("MA"))//memiliki 
             {
